@@ -1,0 +1,1 @@
+Run init.R, then run continue.R with batch ranging from 1 to 10. This is set-up to be submitted as a batch job on a compute cluster. 

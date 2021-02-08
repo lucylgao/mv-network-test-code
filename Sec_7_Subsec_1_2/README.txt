@@ -1,0 +1,1 @@
+Run main.R with this.sim.id ranging from 1 to 12. This is set-up to be submitted as a batch job on a compute cluster. 
